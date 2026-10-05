@@ -1,0 +1,17 @@
+# Build
+build/
+*.o
+*.out
+*.exe
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
