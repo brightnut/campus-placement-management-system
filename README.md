@@ -39,4 +39,4 @@ cmake --build build
 
 This is a learning prototype. All records live in memory and reset when the program exits. It does not yet include real account authentication, registration, admin tools, resume files, SQL storage, email notifications, or interview scheduling. Recruiter access is currently a menu choice rather than authenticated access; add authentication and recruiter ownership checks before using it with real data.
 
-See [CODE_REVIEW.md](CODE_REVIEW.md) for review notes.
+
